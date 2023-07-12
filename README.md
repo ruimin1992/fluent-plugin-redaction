@@ -7,7 +7,7 @@
 
 ## Requirements
 
-| fluent-plugin-redaction | fluentd | ruby |
+| fluentd-plugin-redaction | fluentd | ruby |
 |------------------------|---------|------|
 | >= 0.1.0 | >= v0.14.0 | >= 2.4 |
 
@@ -19,7 +19,7 @@ Redaction filter plugin that is used to redact/anonymize data in specific record
 
 Install from RubyGems:
 ```
-$ gem install fluent-plugin-redaction
+$ gem install fluentd-plugin-redaction
 ```
 
 ## Configuration
